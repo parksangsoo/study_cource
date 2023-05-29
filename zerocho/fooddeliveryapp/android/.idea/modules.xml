@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FoodDeliveryApp.iml" filepath="$PROJECT_DIR$/.idea/modules/FoodDeliveryApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FoodDeliveryApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FoodDeliveryApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FoodDeliveryApp.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FoodDeliveryApp.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FoodDeliveryApp.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FoodDeliveryApp.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FoodDeliveryApp.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FoodDeliveryApp.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/291046280/FoodDeliveryApp.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/291046280/FoodDeliveryApp.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/291046280/FoodDeliveryApp.react-native-safe-area-context.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/291046280/FoodDeliveryApp.react-native-safe-area-context.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/291046280/FoodDeliveryApp.react-native-safe-area-context.main.iml" filepath="$PROJECT_DIR$/.idea/modules/291046280/FoodDeliveryApp.react-native-safe-area-context.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/291046280/FoodDeliveryApp.react-native-safe-area-context.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/291046280/FoodDeliveryApp.react-native-safe-area-context.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/248622496/FoodDeliveryApp.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/248622496/FoodDeliveryApp.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/248622496/FoodDeliveryApp.react-native-screens.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/248622496/FoodDeliveryApp.react-native-screens.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/248622496/FoodDeliveryApp.react-native-screens.main.iml" filepath="$PROJECT_DIR$/.idea/modules/248622496/FoodDeliveryApp.react-native-screens.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/248622496/FoodDeliveryApp.react-native-screens.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/248622496/FoodDeliveryApp.react-native-screens.unitTest.iml" />
+    </modules>
+  </component>
+</project>
